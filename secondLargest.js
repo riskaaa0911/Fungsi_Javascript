@@ -1,3 +1,4 @@
+//Fungsi untuk mencari angka terbesar kedua
 function secondLargest(arr) {
   // Menyimpan angka terbesar dan terbesar kedua
   // Nilai awal menggunakan -Infinity agar bisa membandingkan angka negatif juga
